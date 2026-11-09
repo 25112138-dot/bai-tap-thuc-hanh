@@ -1,2 +1,2 @@
 # bai-tap-thuc-hanh
-é
+esp32  bài tập thực hành 
